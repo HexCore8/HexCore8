@@ -1,12 +1,6 @@
-Hi there 👋
+## Senior Full Stack Engineer
 
-👨‍💻 Code with purpose. 
-
-📈 Build for scale. 
-
-🚀 Deliver measurable impact.
-
-Senior Full Stack Developer with a strong track record of designing and delivering high-performance, scalable applications. Passionate about solving real-world challenges through clean architecture, efficient code, and modern technologies. Committed to writing maintainable solutions, optimizing user experiences, and driving projects from concept to production with precision and reliability.
+Senior Full Stack Engineer with a strong track record of designing and delivering high-performance, scalable applications. Passionate about solving real-world challenges through clean architecture, efficient code, and modern technologies. Committed to writing maintainable solutions, optimizing user experiences, and driving projects from concept to production with precision and reliability.
 
 <div class="markdown-heading" dir="auto"><h2 align="center" class="heading-element" dir="auto">Profile View</h2>
     <a id="user-content-profile-view" class="anchor" aria-label="Permalink: Profile View" href="#profile-view">
