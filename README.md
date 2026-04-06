@@ -1,12 +1,11 @@
 ## Hi there 👋
 
 
-<markdown-accessiblity-table data-catalyst=""><table><tbody><tr><td valign="top" width="50%">
 <p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="/github-contribution-grid-snake.svg">
     <img src="/github-contribution-grid-snake.svg" alt="example" style="max-width: 100%;">
   </a>
-</p></td></tr></tbody></table></markdown-accessiblity-table>
+</p>
 
 
 <div class="markdown-heading" dir="auto"><h2 align="center" class="heading-element" dir="auto">Profile View</h2>
