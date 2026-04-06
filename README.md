@@ -1,6 +1,9 @@
 Hi there 👋
 
-Code with purpose. Build with scale. Deliver with impact.
+Code with purpose. 
+Build with scale. 
+Deliver with impact.
+
 Senior Full Stack Developer focused on creating high-quality, scalable applications and solving real-world problems through clean and efficient engineering.
 
 <div class="markdown-heading" dir="auto"><h2 align="center" class="heading-element" dir="auto">Profile View</h2>
