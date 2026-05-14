@@ -12,6 +12,10 @@ Senior Full Stack Engineer with a strong track record of designing and deliverin
     <h3 align="center" class="heading-element" dir="auto">Code with purpose! & Build with scale! & Deliver with impact!</h3>
 </div>
 
+<div align="center" dir="auto">
+    <img src="https://count.getloli.com/@David?name=David&theme=normal-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+</div>
+
 
 
 <div class="markdown-heading" dir="auto"><h2 align="center" class="heading-element" dir="auto">Profile View</h2>
