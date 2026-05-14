@@ -8,7 +8,7 @@
 </div>
 
 Senior Full Stack Engineer with a strong track record of designing and delivering high-performance, scalable applications. Passionate about solving real-world challenges through clean architecture, efficient code, and modern technologies. Committed to writing maintainable solutions, optimizing user experiences, and driving projects from concept to production with precision and reliability. -->
-<h3 align="center" class="heading-element" dir="auto">Code with purpose! Build with scale! Deliver with impact!</h3>
+<h3 align="center" class="heading-element" dir="auto" color="red">Code with purpose! Build with scale! Deliver with impact!</h3>
 
 
 <div class="markdown-heading" dir="auto"><h2 align="center" class="heading-element" dir="auto">Profile View</h2>
