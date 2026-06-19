@@ -12,13 +12,6 @@ Senior Full Stack Engineer with a strong track record of designing and deliverin
     <h3 align="center" class="heading-element" dir="auto">Code with purpose! & Build with scale! & Deliver with impact!</h3>
 </div> -->
 
-<div dir="auto" style="display: flex; justify-content: center;">
-  <animated-image data-catalyst="">
-      <a align="center">
-      <img src="https://camo.githubusercontent.com/f174bbf701e807f0d99718f220066f6661b76be5af494d79b7b0e23fda1ced8b/68747470733a2f2f617263686976652e666163746f726461696c792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30312f4672726f6c655f4c6561642e676966" alt="cover" style="width: 50%; max-width: 50%; display: inline-block;" data-canonical-src="https://archive.factordaily.com/wp-content/uploads/2018/01/Frrole_Lead.gif" data-target="animated-image.originalImage">
-  </a>
-</div>
-
 
 
 <div class="markdown-heading" dir="auto"><h2 align="center" class="heading-element" dir="auto">Profile View</h2>
