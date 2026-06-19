@@ -12,7 +12,7 @@ Senior Full Stack Engineer with a strong track record of designing and deliverin
     <h3 align="center" class="heading-element" dir="auto">Code with purpose! & Build with scale! & Deliver with impact!</h3>
 </div> -->
 
-<div dir="auto">
+<div dir="auto" style="display: flex; justify-content: center;">
   <animated-image data-catalyst="">
       <a data-target="animated-image.originalLink" class="" style="    display: flex;
     justify-content: center;">
