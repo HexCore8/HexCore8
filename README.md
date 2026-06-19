@@ -8,9 +8,9 @@
 </div>
 
 Senior Full Stack Engineer with a strong track record of designing and delivering high-performance, scalable applications. Passionate about solving real-world challenges through clean architecture, efficient code, and modern technologies. Committed to writing maintainable solutions, optimizing user experiences, and driving projects from concept to production with precision and reliability. -->
-<div class="markdown-heading" dir="auto">
+<!-- <div class="markdown-heading" dir="auto">
     <h3 align="center" class="heading-element" dir="auto">Code with purpose! & Build with scale! & Deliver with impact!</h3>
-</div>
+</div> -->
 
 <div dir="auto">
   <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f174bbf701e807f0d99718f220066f6661b76be5af494d79b7b0e23fda1ced8b/68747470733a2f2f617263686976652e666163746f726461696c792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30312f4672726f6c655f4c6561642e676966" data-target="animated-image.originalLink" class=""><img src="https://camo.githubusercontent.com/f174bbf701e807f0d99718f220066f6661b76be5af494d79b7b0e23fda1ced8b/68747470733a2f2f617263686976652e666163746f726461696c792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30312f4672726f6c655f4c6561642e676966" alt="cover" style="width: 100%; max-width: 100%; display: inline-block;" data-canonical-src="https://archive.factordaily.com/wp-content/uploads/2018/01/Frrole_Lead.gif" data-target="animated-image.originalImage"></a>
