@@ -28,13 +28,6 @@
 <br>
 <br>
 <br>
-<p dir="auto"><strong>
-  Freelancing &amp; Working on Superior Crypto &amp; AI
-  <br><br> 
-  Vibing to : 🎧  
-</strong></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c1c894632b970d60cc90c398fe7f5b00b3fc57b86aca108f3d86524b53ab86d5/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7873656e323135267374796c653d666c617426636f6c6f723d6f72616e6765266c6162656c3d50524f46494c452b5649455753"><img src="https://camo.githubusercontent.com/c1c894632b970d60cc90c398fe7f5b00b3fc57b86aca108f3d86524b53ab86d5/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7873656e323135267374796c653d666c617426636f6c6f723d6f72616e6765266c6162656c3d50524f46494c452b5649455753" alt="Totals Hits" data-canonical-src="https://komarev.com/ghpvc/?username=xsen215&amp;style=flat&amp;color=orange&amp;label=PROFILE+VIEWS" style="max-width: 100%;"></a></p>
-</div>
 
 
 <div class="markdown-heading" dir="auto"><h2 align="center" class="heading-element" dir="auto">Profile View</h2>
