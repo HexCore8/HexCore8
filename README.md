@@ -30,7 +30,6 @@
 <ul align="left" dir="auto">
   <li>Advanced exploit development, malware analysis, and post-exploitation techniques</li>
   <li>AI/LLM security, prompt injection, AI red teaming, and autonomous security agents</li>
-  <li>Cloud-native security across AWS, Azure, Kubernetes, and container security</li>
   <li>Threat intelligence automation, detection engineering, and purple team methodologies</li>
 </ul>
 <br>
