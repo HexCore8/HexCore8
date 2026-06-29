@@ -1,5 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+hexcore's+corner" alt="Typing SVG" /></a>
 <div align="center" width="50" dir="auto">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+HexCore's+corner" alt="Typing SVG" /></a>
 <themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Skills_Animation_Dark.gif">
