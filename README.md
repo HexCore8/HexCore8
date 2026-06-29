@@ -35,8 +35,6 @@
 </ul>
 <br>
 <br>
-<br>
-<br>
 
 <div class="markdown-heading" dir="auto"><h2 align="center" class="heading-element" dir="auto">Profile View</h2>
     <a id="user-content-profile-view" class="anchor" aria-label="Permalink: Profile View" href="#profile-view">
