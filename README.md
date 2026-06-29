@@ -1,9 +1,9 @@
 <div align="center" width="50" dir="auto">
-<div align="center" dir="auto">
+<!-- <div align="center" dir="auto">
 <a href="https://git.io/typing-svg" rel="nofollow">
 <img src="https://camo.githubusercontent.com/29b578807735031033de1ba6f58d3355b78bc0def853b2a969e297f551f66a01/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d436f6d69632b53616e732b4d532673697a653d33302670617573653d313030302663656e7465723d747275652677696474683d373230266c696e65733d492b616d2b612b41492b616e642b426c6f636b636861696e2b456e67696e6565722e3b46756c6c2b537461636b2b5765622b616e642b4d6f62696c652b4170702b446576656c6f706d656e74" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&amp;size=30&amp;pause=1000&amp;center=true&amp;width=720&amp;lines=I+am+a+AI+and+Blockchain+Engineer.;Full+Stack+Web+and+Mobile+App+Development" style="max-width: 100%;">
 </a>
-</div>
+</div> -->
 <themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Skills_Animation_Dark.gif">
