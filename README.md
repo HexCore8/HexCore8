@@ -2,13 +2,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Welcome+to+HexCore's+corner" alt="Typing SVG" /></a>
 </div>
   <div align="center" width="50" dir="auto">
-<themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;">
+<!-- <themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="/Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="/Skills_Animation_White.gif" style="visibility: visible; max-width: 100%;">
 </picture>
-</themed-picture>
+</themed-picture> -->
 <div class="markdown-heading" dir="auto">
 <h3 align="left" class="heading-element" dir="auto">Key Focus</h3>
 <a id="user-content-key-focus" class="anchor" aria-label="Permalink: Key Focus" href="#key-focus">
